@@ -1,1 +1,10 @@
-{"_id":"5bf2075d1948423de6908e0d","name":"ucd-library/crowd-source-js","organization":"cstars","language":"other","packageType":"standalone","source":"registered","owner":"jrmerz","htmlUrl":"https://github.com/ucd-library/crowd-source-js","id":"e9000ad7-167b-4feb-8563-bc41a0867e71","releaseCount":0}
+{
+  "name": "ucd-library/crowd-source-js",
+  "organization": "cstars",
+  "language": "other",
+  "packageType": "standalone",
+  "source": "registered",
+  "owner": "jrmerz",
+  "htmlUrl": "https://github.com/ucd-library/crowd-source-js",
+  "id": "e9000ad7-167b-4feb-8563-bc41a0867e71"
+}
