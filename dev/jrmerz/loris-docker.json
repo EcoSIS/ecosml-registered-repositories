@@ -1,0 +1,13 @@
+{
+  "name": "jrmerz/loris-docker",
+  "organization": "neon",
+  "language": "python",
+  "packageType": "standalone",
+  "source": "registered",
+  "owner": "jrmerz",
+  "releaseCount": 0,
+  "description": "",
+  "htmlUrl": "https://github.com/jrmerz/loris-docker",
+  "private": false,
+  "id": "c2379ef1-9bf4-4402-ac66-56f09ae8605a"
+}
