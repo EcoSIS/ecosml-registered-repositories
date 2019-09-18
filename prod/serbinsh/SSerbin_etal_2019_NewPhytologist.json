@@ -5,7 +5,7 @@
   "packageType": "standalone",
   "source": "registered",
   "owner": "serbinsh",
-  "releaseCount": 0,
+  "releaseCount": 1,
   "htmlUrl": "https://github.com/serbinsh/SSerbin_etal_2019_NewPhytologist",
   "private": false,
   "id": "a96e0cd7-1d9a-490f-906f-bff1148f05a9",
@@ -15,10 +15,21 @@
   "keywords": [
     "plsr",
     "lma",
-    "leaf spectroscopy"
+    "leaf spectroscopy",
+    "spectroscopy",
+    "leaf"
   ],
   "specific": [],
   "theme": [
     "physiology"
-  ]
+  ],
+  "organizationInfo": {
+    "id": "f42511c9-f4dc-4399-ac3b-e068bf0ea9a0",
+    "name": "bnl",
+    "groups": [],
+    "displayName": "Brookhaven National Laboratory",
+    "description": "The Terrestrial Ecosystem Science and Technology (TEST) group seeks to improve the representation of ecosystem processes in Earth System Models in order to increase our ability to understand and project global change. We study processes that have a global impact on climate, and focus on ecosystems that are poorly understood, sensitive to global change, and inadequately represented in models. We are also interested in applying our techniques to address questions related to global food security and bioenergy.\r\n\r\nhttp://bnl.gov/TEST/",
+    "logo": "http://data.ecosis.org/uploads/group/2015-10-27-163558.024768LogoBig.jpg"
+  },
+  "renderedDescription": ""
 }
