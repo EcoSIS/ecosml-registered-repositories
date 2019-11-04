@@ -8,5 +8,24 @@
   "releaseCount": 0,
   "htmlUrl": "https://github.com/TESTgroup-BNL/Ely_etal_2019_JournalOfExperimentalBotany",
   "private": false,
-  "id": "321fd209-079e-4d04-a50f-d54d61fcb5ca"
+  "id": "321fd209-079e-4d04-a50f-d54d61fcb5ca",
+  "family": [
+    "nitrogen",
+    "carbon",
+    "LMA"
+  ],
+  "keywords": [
+    "leaf",
+    "leaf spectroscopy",
+    "leaf traits",
+    "spectra"
+  ],
+  "specific": [
+    "N",
+    "C"
+  ],
+  "theme": [
+    "chemistry",
+    "physiology"
+  ]
 }
