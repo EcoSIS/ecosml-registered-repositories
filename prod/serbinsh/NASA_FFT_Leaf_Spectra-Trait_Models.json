@@ -8,5 +8,36 @@
   "releaseCount": 0,
   "htmlUrl": "https://github.com/serbinsh/NASA_FFT_Leaf_Spectra-Trait_Models",
   "private": false,
-  "id": "feb55560-1c95-4654-a318-74b5015bdd5d"
+  "id": "feb55560-1c95-4654-a318-74b5015bdd5d",
+  "family": [
+    "nitrogen",
+    "carbon",
+    "fiber",
+    "lignen",
+    "LMA"
+  ],
+  "keywords": [
+    "leaf",
+    "spectra",
+    "spectroscopy",
+    "leaf spectroscopy",
+    "leaf nitrogen",
+    "leaf carbon",
+    "lma",
+    "leaf mass area",
+    "lignin",
+    "cellulose",
+    "fiber",
+    "physiology",
+    "leaf chemistry"
+  ],
+  "specific": [
+    "N",
+    "15N",
+    "C"
+  ],
+  "theme": [
+    "chemistry",
+    "physiology"
+  ]
 }
