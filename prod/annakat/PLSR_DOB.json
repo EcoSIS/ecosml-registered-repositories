@@ -5,8 +5,28 @@
   "packageType": "standalone",
   "source": "registered",
   "owner": "anna_schweiger",
-  "releaseCount": 0,
+  "releaseCount": 1,
   "htmlUrl": "https://github.com/annakat/PLSR_DOB",
   "private": false,
-  "id": "d3cd8d6b-b3fd-478c-bbd6-0854b13df94d"
+  "id": "d3cd8d6b-b3fd-478c-bbd6-0854b13df94d",
+  "dois": [],
+  "organizationInfo": {
+    "id": "04cdcacc-3011-4278-b4a8-2d036573e305",
+    "name": "cavender-bares-lab",
+    "groups": [],
+    "displayName": "Cavender-Bares Lab",
+    "description": "The Cavender-Bares Lab, College of Biological Sciences, University of Minnesota, Saint Paul",
+    "logo": "http://data.ecosis.org/uploads/group/2016-09-21-160955.556496CB.tree.icon.jpg"
+  },
+  "renderedDescription": "",
+  "family": [],
+  "keywords": [
+    "carbon",
+    "nitrogen",
+    "fiber fractions",
+    "chlorophylls",
+    "carotenoids"
+  ],
+  "specific": [],
+  "theme": []
 }
