@@ -20,7 +20,7 @@
   },
   "renderedDescription": "",
   "family": [
-    "carbon"
+    "nitrogen"
   ],
   "keywords": [
     "carbon",
@@ -31,6 +31,7 @@
   ],
   "specific": [],
   "theme": [
-    "chemistry"
+    "chemistry",
+    "physiology"
   ]
 }
